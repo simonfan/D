@@ -1,0 +1,17 @@
+{
+  "name": "D",
+  "main": "built/D.js",
+  "version": "0.0.0",
+  "description": "Data representation",
+  "dependencies": {
+    "subject": "~0.3.3",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "requirejs": "*",
+    "requirejs-text": "*",
+    "underscore": "*",
+    "jquery": "*",
+    "qunit": "*"
+  }
+}
